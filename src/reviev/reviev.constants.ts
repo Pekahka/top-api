@@ -1,0 +1,1 @@
+export const REVIEV_NOT_FOUND = 'Отзыв не найден';
